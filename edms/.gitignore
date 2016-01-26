@@ -1,0 +1,17 @@
+cache/
+deploy/
+logs/
+*.log
+*.pyc
+*~
+*.un~
+*.egg-info
+*.mo
+*.egg
+.git/
+.idea/
+__pycache__/
+public/static/ternovoshop/css/
+public/static/oscar/css/
+public/
+oscar/
